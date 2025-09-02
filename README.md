@@ -38,17 +38,25 @@ pip install torch transformers scikit-learn pandas numpy matplotlib seaborn
 ## Usage
 Open either notebook in Jupyter and run all cells. Make sure the dataset is available at the expected path or update the path in the code.
 
-## Video Demonstration
+## Project Visuals
+
+### Video Demonstration
 You can watch a demonstration of the project below:
 
 [![Phishing Detection Demo](phishing-mp4.mp4)](phishing-mp4.mp4)
 
 Or download/view the video directly: [phishing-mp4.mp4](phishing-mp4.mp4)
 
+### Project Image
+Below is a sample image from the project:
+
+![Phishing Detection Sample](phishing-image.png)
+
 ---
 
 **Note:**
 - The notebooks expect the dataset in a specific format. Adjust paths as needed.
 - GPU is recommended for faster training.
+
 
 
